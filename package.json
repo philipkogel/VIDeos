@@ -2,7 +2,7 @@
   "name": "videos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://philipkogel.github.io/VIDeos",
+  "homepage": "https://philipkogel.github.io/VIDeos",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.6",
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
