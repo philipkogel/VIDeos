@@ -1,0 +1,13 @@
+.video-item {
+  display: flex !important;
+  align-items: center;
+  cursor: pointer;
+}
+.ui.list > .item .header {
+  margin-left: 10px;
+  color: white;
+}
+.video-item.item img {
+  max-width: 160px;
+  max-height: 160px;
+}

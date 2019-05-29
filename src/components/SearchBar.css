@@ -1,0 +1,6 @@
+.ui.segment.search-bar {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.ui.form .field > label {
+  color: white;
+}

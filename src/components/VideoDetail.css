@@ -1,0 +1,9 @@
+.ui.segment {
+  background-color: rgb(17, 17, 17, 0.7);
+}
+.ui.segment .header {
+  color: rgb(168, 168, 168);
+}
+.ui.segment p {
+  color: white;
+}
